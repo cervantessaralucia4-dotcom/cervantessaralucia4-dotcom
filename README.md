@@ -1,6 +1,5 @@
 # 🌸 GitHub Profile README — Sara Cervantes
 
-```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sara%20Cervantes&fontAlign=50&fontAlignY=40&desc=Software%20Development%20Student&descAlignY=60&animation=fadeIn" />
@@ -146,5 +145,4 @@ Vocabulary learning platform to improve English skills daily.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
 
 </div>
-```
 
