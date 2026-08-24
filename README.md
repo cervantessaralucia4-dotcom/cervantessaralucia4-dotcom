@@ -7,8 +7,6 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=23&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Development+Student;AI+%2F+Data+Science+Engineering+Student;Full-Stack+Developer+in+Training;Turning+Ideas+Into+Working+Code" />
-
 <br>
 
 <a href="https://github.com/cervantessaralucia4-dotcom">
