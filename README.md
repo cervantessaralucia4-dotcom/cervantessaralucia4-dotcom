@@ -3,7 +3,7 @@
 <!-- PROFILE HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,40:24113f,100:8b5cf6&text=SARA%20CERVANTES&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Software%20Development%20%2F%20AI%20%2F%20Data%20Science%20Student&descSize=17&descAlignY=52&animation=fadeIn" width="100%"/>
 
-<img src="./assets/profile_bootcamp.jpg" width="170" style="border-radius:50%;" alt="Sara Cervantes"/>
+<img src="./assets/profile_sara_circle.svg" width="190" alt="Sara Cervantes"/>
 
 <br><br>
 
