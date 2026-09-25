@@ -3,7 +3,7 @@
 <!-- PROFILE HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,40:24113f,100:8b5cf6&text=SARA%20CERVANTES&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Software%20Development%20%2F%20AI%20%2F%20Data%20Science%20Student&descSize=17&descAlignY=52&animation=fadeIn" width="100%"/>
 
-<img src="./assets/profile.png" width="170" style="border-radius:50%;" alt="Sara Cervantes"/>
+<img src="./assets/profile_bootcamp.jpg" width="170" style="border-radius:50%;" alt="Sara Cervantes"/>
 
 <br><br>
 
@@ -12,7 +12,7 @@
 <a href="https://github.com/cervantessaralucia4-dotcom">
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
-<a href="https://saracervantes.myadso.tech">
+<a href="https://portafolio-vert-seven-54.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=ffffff" />
 </a>
 <a href="mailto:cervantessaralucia4@gmail.com">
@@ -44,6 +44,24 @@ Right now I'm strengthening my skills in **software development, web application
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cervantessaralucia4-dotcom&theme=react-dark&hide_border=true&area=true&color=A78BFA&line=8B5CF6&point=FFFFFF" width="100%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:8b5cf6&height=2&width=100%" />
+
+<div align="center">
+
+## 🏆 Bootcamp Achievement
+
+### 🥉 3rd Place — SuperBrixIA
+
+I participated in an **AI and innovation bootcamp** where I developed **SuperBrixIA**, a solution focused on supporting industrial plant operations through AI-assisted event classification, monitoring and data analysis.
+
+The project integrates an **Android mobile application**, a **FastAPI backend**, **Google Gemini**, **Google Sheets** and **Looker Studio**.
+
+**🏆 Result: 3rd place in the bootcamp**
+
+<a href="https://github.com/cervantessaralucia4-dotcom/SuperBrixIA"><img src="https://img.shields.io/badge/View%20SuperBrixIA-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -94,6 +112,21 @@ Right now I'm strengthening my skills in **software development, web application
 <tr>
 
 <td width="50%" valign="top">
+
+### 🤖 SuperBrixIA — AI for Industrial Operations
+Solution developed for an innovation bootcamp to support the registration, classification and analysis of production stops and events.
+
+**Highlights**
+- Android app built with Kotlin + Jetpack Compose
+- REST API with FastAPI and Python
+- AI-assisted classification with Google Gemini
+- Event and downtime registration
+- Google Sheets integration
+- Looker Studio dashboard and KPIs
+
+`Kotlin` `Jetpack Compose` `FastAPI` `Python` `Google Gemini` `Google Sheets`
+
+<a href="https://github.com/cervantessaralucia4-dotcom/SuperBrixIA"><img src="https://img.shields.io/badge/Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ### 🛍️ Cosmetic Store
 A modern e-commerce platform for beauty and cosmetic products.
@@ -259,7 +292,7 @@ A set of six business-intelligence dashboards covering different real-world data
 <a href="https://github.com/cervantessaralucia4-dotcom">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://saracervantes.myadso.tech">
+<a href="https://portafolio-vert-seven-54.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="mailto:cervantessaralucia4@gmail.com">
