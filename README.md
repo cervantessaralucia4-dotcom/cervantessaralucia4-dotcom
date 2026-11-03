@@ -1,314 +1,147 @@
 <div align="center">
 
-<!-- PROFILE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,40:24113f,100:8b5cf6&text=SARA%20CERVANTES&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Software%20Development%20%2F%20AI%20%2F%20Data%20Science%20Student&descSize=17&descAlignY=52&animation=fadeIn" width="100%"/>
-
-<img src="./assets/profile_sara_circle.svg" width="190" alt="Sara Cervantes"/>
-
-<br><br>
-
-<br>
-
 <a href="https://github.com/cervantessaralucia4-dotcom">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
-</a>
-<a href="https://portafolio-vert-seven-54.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=ffffff" />
-</a>
-<a href="mailto:cervantessaralucia4@gmail.com">
-<img src="https://img.shields.io/badge/Email-24113f?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,45:24113F,100:8B5CF6&text=SARA%20CERVANTES&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%E2%80%A2%20AI%20%E2%80%A2%20DATA&descAlignY=58&descSize=16" alt="Sara Cervantes — Software Development, AI and Data" width="100%" />
 </a>
 
-<br><br>
+<img src="./assets/profile_sara_circle.svg" width="170" alt="Retrato ilustrado de Sara Cervantes" />
 
-<img src="https://komarev.com/ghpvc/?username=cervantessaralucia4-dotcom&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" />
+<br />
+
+<a href="https://portafolio-vert-seven-54.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/cervantessaralucia4-dotcom"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="mailto:cervantessaralucia4@gmail.com"><img src="https://img.shields.io/badge/EMAIL-24113F?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+
+<br /><br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+useful+digital+experiences;Exploring+AI+and+data+science;Learning+by+creating+real+projects" alt="Building useful digital experiences · Exploring AI and data science · Learning by creating real projects" />
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=cervantessaralucia4-dotcom&style=for-the-badge&color=8B5CF6&label=PROFILE+VISITS" alt="Profile visits" />
 
 </div>
 
-<br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:8b5cf6&height=2&width=100%" />
+## ✨ About me
+
+Hi! I'm **Sara Cervantes**, a software development student at **ADSO — SENA Centro Colombo Alemán** and an **Artificial Intelligence and Data Science Engineering** student.
+
+I enjoy turning ideas into practical digital products and exploring how **software, data, and AI** can work together. I learn by building: from mobile and web applications to data projects and dashboards.
+
+- 💻 Interested in **software development, web and mobile applications, AI, and data science**
+- 🧠 Currently strengthening my skills in **Python, Kotlin, JavaScript, databases, and machine learning**
+- 🚀 Motivated by thoughtful solutions, continuous learning, and projects with real-world impact
+- 🌎 Based in **Colombia**
+
+---
+
+## 🏆 A project I'm proud of
+
+### 🥉 3rd place — SuperBrixIA / BRIX360
+
+I contributed to **BRIX360**, an Android application created for industrial operations. The project helps teams register production events and uses AI-assisted classification to support operational tracking. It brings together a mobile app, a backend, and reporting integrations.
+
+<a href="https://github.com/cervantessaralucia4-dotcom/SuperBrixIA"><img src="https://img.shields.io/badge/EXPLORE_SUPERBRIXIA-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore SuperBrixIA on GitHub" /></a>
+
+---
+
+## 🧰 Technologies & tools
 
 <div align="center">
 
-## 💜 About Me
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,js,php,html,css&theme=dark" alt="Python, Java, Kotlin, JavaScript, PHP, HTML and CSS" />
 
-<br>
+### Frameworks & platforms
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,fastapi&theme=dark" alt="React, Next.js, Node.js, Express, Django, Flask and FastAPI" />
 
-I'm **Sara Cervantes**, a Software Development student at **ADSO — SENA Centro Colombo Alemán**, passionate about turning ideas into **useful, well-crafted digital products**.
+### Data, databases & tools
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,git,github,vscode,androidstudio&theme=dark" alt="MySQL, PostgreSQL, Firebase, Supabase, Git, GitHub, VS Code and Android Studio" />
 
-I'm also studying **Engineering in Artificial Intelligence and Data Science**, combining both fields to build smarter, data-driven applications.
+<br />
 
-Right now I'm strengthening my skills in **software development, web applications, machine learning, databases and UI design** — I learn best by **building**, and every project is a chance to experiment with something new.
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cervantessaralucia4-dotcom&theme=react-dark&hide_border=true&area=true&color=A78BFA&line=8B5CF6&point=FFFFFF" width="100%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:8b5cf6&height=2&width=100%" />
-
-<div align="center">
-
-## 🏆 Bootcamp Achievement
-
-### 🥉 3rd Place — SuperBrixIA
-
-I participated in an **AI and innovation bootcamp** where I developed **SuperBrixIA**, a solution focused on supporting industrial plant operations through AI-assisted event classification, monitoring and data analysis.
-
-The project integrates an **Android mobile application**, a **FastAPI backend**, **Google Gemini**, **Google Sheets** and **Looker Studio**.
-
-**🏆 Result: 3rd place in the bootcamp**
-
-<a href="https://github.com/cervantessaralucia4-dotcom/SuperBrixIA"><img src="https://img.shields.io/badge/View%20SuperBrixIA-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Pandas-24113F?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Power_BI-8B5CF6?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+<img src="https://img.shields.io/badge/Streamlit-24113F?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:8b5cf6&height=2&width=100%" />
+---
 
-<div align="center">
+## 🚀 Featured projects
 
-## 🧠 Tech Stack
-
-<br>
-
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=python,java,js,php,cpp,html,css&theme=dark" />
-
-<br><br>
-
-**Frameworks & Libraries**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,fastapi&theme=dark" />
-
-<br><br>
-
-**Databases & Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,git,github,vscode,androidstudio,kotlin&theme=dark" />
-
-<br><br>
-
-**AI / Data Science**
-<br>
-<img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-24113f?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-8B5CF6?style=for-the-badge&logo=powerbi&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-24113f?style=for-the-badge&logo=streamlit&logoColor=white" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:8b5cf6&height=2&width=100%" />
-
-<div align="center">
-
-## 🚀 Featured Projects
-
-</div>
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 SuperBrixIA — AI for Industrial Operations
-Solution developed for an innovation bootcamp to support the registration, classification and analysis of production stops and events.
-
-**Highlights**
-- Android app built with Kotlin + Jetpack Compose
-- REST API with FastAPI and Python
-- AI-assisted classification with Google Gemini
-- Event and downtime registration
-- Google Sheets integration
-- Looker Studio dashboard and KPIs
-
-`Kotlin` `Jetpack Compose` `FastAPI` `Python` `Google Gemini` `Google Sheets`
-
-<a href="https://github.com/cervantessaralucia4-dotcom/SuperBrixIA"><img src="https://img.shields.io/badge/Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-### 🛍️ Cosmetic Store
-A modern e-commerce platform for beauty and cosmetic products.
-
-**Features**
-- Product catalog · Shopping cart
-- User authentication · Admin dashboard
-- Database management
-
-`HTML` `CSS` `JavaScript` `PHP` `MySQL`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏨 Hotel Management
-A management system designed to organize hotel operations.
-
-**Features**
-- Reservation management
-- Customer records · Room availability
-- Billing system
-
-`Python` `MySQL`
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🥗 Nutrition Management
-A web app focused on personalized nutrition and healthy habits.
-
-**Features**
-- Meal tracking · Weight goals
-- Progress visualization
-- Personalized recommendations
-
-`PHP` `MySQL` `JavaScript`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📖 WordScape
-A vocabulary-learning platform for more interactive English practice.
-
-**Features**
-- Daily vocabulary · Interactive exercises
-- Learning challenges
-- Modern interface
-
-`React` `JavaScript`
-
-</td>
-
-</tr>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏭 SuperBrixIA / BRIX360</h3>
+      <p>Android application for industrial event reporting, with AI-assisted classification and offline-first workflows.</p>
+      <p><code>Kotlin</code> <code>Jetpack Compose</code> <code>FastAPI</code> <code>AI</code></p>
+      <a href="https://github.com/cervantessaralucia4-dotcom/SuperBrixIA">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥗 FocusMeal</h3>
+      <p>Android nutrition app for tracking meals, nutrients, goals, and progress.</p>
+      <p><code>Kotlin</code> <code>Jetpack Compose</code> <code>Firebase</code></p>
+      <a href="https://github.com/cervantessaralucia4-dotcom/FocusMealApp">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💄 Velvet Beauty</h3>
+      <p>A beauty and cosmetics e-commerce project with a modern web experience.</p>
+      <p><code>Next.js</code> <code>TypeScript</code></p>
+      <a href="https://github.com/cervantessaralucia4-dotcom/velvet-beauty">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 SmartMarket</h3>
+      <p>Data engineering and machine learning project featuring data validation, transformation, and analysis.</p>
+      <p><code>Python</code> <code>Pandas</code> <code>Scikit-learn</code></p>
+      <a href="https://github.com/cervantessaralucia4-dotcom/Reto-SmartMarket">View repository →</a>
+    </td>
+  </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:8b5cf6&height=2&width=100%" />
+<div align="center">
+  <a href="https://github.com/cervantessaralucia4-dotcom?tab=repositories"><img src="https://img.shields.io/badge/MORE_PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=white" alt="See more GitHub repositories" /></a>
+</div>
+
+---
+
+## 📊 GitHub at a glance
 
 <div align="center">
 
-## 🤖 AI & Data Science Projects
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cervantessaralucia4-dotcom&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cervantessaralucia4-dotcom&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used programming languages on GitHub" />
 
-<sub>Applied machine learning, ETL pipelines and data-driven dashboards</sub>
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=cervantessaralucia4-dotcom&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B9AC1" alt="GitHub contribution streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cervantessaralucia4-dotcom&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
 
 </div>
 
-<table width="100%">
-<tr>
+---
 
-<td width="50%" valign="top">
-
-### 🏥 HealthAnalytics IPS
-Full-stack platform for a healthcare provider with an integrated ML module for clinical analytics.
-
-**Highlights**
-- ETL pipeline + statistical analytics
-- RandomForest classification model (**66.57%** accuracy)
-- JWT auth with role-based access (admin / médico / analista)
-- PostgreSQL on Neon Cloud
-
-`Django` `React 19` `PostgreSQL` `Scikit-learn`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎓 EduPredict
-A student dropout prediction system built to support early academic intervention.
-
-**Highlights**
-- RandomForest model trained on academic/behavioral data
-- Interactive prediction dashboard
-- Clear, actionable risk visualizations
-
-`Python` `Scikit-learn` `Streamlit`
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🛒 SmartMarket
-Classification project analyzing consumer/market data using a KNN model.
-
-**Highlights**
-- Data cleaning & preprocessing pipeline
-- KNN classification model
-- Exploratory data analysis & visualization
-
-`Python` `Scikit-learn` `Pandas`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📈 Power BI Dashboard Suite
-A set of six business-intelligence dashboards covering different real-world datasets.
-
-**Highlights**
-- HR · Supermarket sales & products · Used cars
-- Consumer complaints · Utilities & margins
-- Custom DAX measures & Power Query transformations
-
-`Power BI` `DAX` `Power Query`
-
-</td>
-
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:8b5cf6&height=2&width=100%" />
+## 🤝 Let's connect
 
 <div align="center">
 
-## 📊 GitHub Analytics
+Have an idea, a project, or an opportunity to collaborate? I'd love to hear from you!
 
-<br>
+<a href="https://portafolio-vert-seven-54.vercel.app/"><img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" /></a>
+<a href="mailto:cervantessaralucia4@gmail.com"><img src="https://img.shields.io/badge/GET_IN_TOUCH-24113F?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch by email" /></a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cervantessaralucia4-dotcom&show_icons=true&theme=transparent&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&border_color=30363d&border_radius=12&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cervantessaralucia4-dotcom&layout=compact&theme=transparent&title_color=A78BFA&text_color=C9D1D9&border_color=30363d&border_radius=12" />
+<br /><br />
 
-<br><br>
+*“Small progress every day leads to big results.”*
 
-<img src="https://streak-stats.demolab.com?user=cervantessaralucia4-dotcom&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:8b5cf6&height=2&width=100%" />
-
-<div align="center">
-
-## 🔗 Let's Connect
-
-<br>
-
-<a href="https://github.com/cervantessaralucia4-dotcom">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://portafolio-vert-seven-54.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:cervantessaralucia4@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-24113f?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.icons8.com/fluency/35/000000/quote.png" width="25"/>
-
-### *"Small progress every day leads to big results."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8b5cf6,50:24113f,100:0d1117" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:8B5CF6,50:24113F,100:0D1117" alt="Purple wave footer" width="100%" />
 
 </div>
