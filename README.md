@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,45:24113F,100:8B5CF6&text=SARA%20CERVANTES&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%E2%80%A2%20AI%20%E2%80%A2%20DATA&descAlignY=58&descSize=16" alt="Sara Cervantes — Software Development, AI and Data" width="100%" />
 </a>
 
-<img src="./assets/profile_sara_circle.svg" width="170" alt="Retrato ilustrado de Sara Cervantes" />
+<img src="https://raw.githubusercontent.com/cervantessaralucia4-dotcom/cervantessaralucia4-dotcom/main/assets/profile_bootcamp.jpg" width="190" alt="Sara Cervantes" />
 
 <br />
 
@@ -76,30 +76,30 @@ I contributed to **BRIX360**, an Android application created for industrial oper
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏭 SuperBrixIA / BRIX360</h3>
-      <p>Android application for industrial event reporting, with AI-assisted classification and offline-first workflows.</p>
-      <p><code>Kotlin</code> <code>Jetpack Compose</code> <code>FastAPI</code> <code>AI</code></p>
-      <a href="https://github.com/cervantessaralucia4-dotcom/SuperBrixIA">View repository →</a>
+      <h3>🎫 Soportix</h3>
+      <p>Helpdesk platform with role-based access, ticket tracking, comments, file attachments, and reporting dashboard.</p>
+      <p><code>TypeScript</code> <code>Angular</code> <code>Django</code> <code>PostgreSQL</code></p>
+      <a href="https://github.com/bleidys16/Soportix">View repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🥗 FocusMeal</h3>
-      <p>Android nutrition app for tracking meals, nutrients, goals, and progress.</p>
-      <p><code>Kotlin</code> <code>Jetpack Compose</code> <code>Firebase</code></p>
-      <a href="https://github.com/cervantessaralucia4-dotcom/FocusMealApp">View repository →</a>
+      <h3>🏡 Inmobiliaria</h3>
+      <p>Real estate web platform for exploring property listings.</p>
+      <p><code>HTML</code> <code>Web</code></p>
+      <a href="https://github.com/cervantessaralucia4-dotcom/inmobiliaria">View repository →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💄 Velvet Beauty</h3>
-      <p>A beauty and cosmetics e-commerce project with a modern web experience.</p>
-      <p><code>Next.js</code> <code>TypeScript</code></p>
-      <a href="https://github.com/cervantessaralucia4-dotcom/velvet-beauty">View repository →</a>
+      <h3>🏥 Clinical Analytics Platform — pipeline-reto</h3>
+      <p>Intelligent clinical analytics platform that brings together data processing and analysis to support healthcare insights.</p>
+      <p><code>Python</code> <code>Data pipelines</code> <code>Clinical analytics</code></p>
+      <a href="https://github.com/cervantessaralucia4-dotcom/pipeline-reto">View repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 SmartMarket</h3>
-      <p>Data engineering and machine learning project featuring data validation, transformation, and analysis.</p>
-      <p><code>Python</code> <code>Pandas</code> <code>Scikit-learn</code></p>
-      <a href="https://github.com/cervantessaralucia4-dotcom/Reto-SmartMarket">View repository →</a>
+      <h3>🏭 SuperBrixIA / BRIX360</h3>
+      <p>Android app for industrial event reporting, with AI-assisted classification and offline-first workflows.</p>
+      <p><code>Kotlin</code> <code>Jetpack Compose</code> <code>FastAPI</code></p>
+      <a href="https://github.com/cervantessaralucia4-dotcom/SuperBrixIA">View repository →</a>
     </td>
   </tr>
 </table>
@@ -114,16 +114,20 @@ I contributed to **BRIX360**, an Android application created for industrial oper
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cervantessaralucia4-dotcom&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cervantessaralucia4-dotcom&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used programming languages on GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cervantessaralucia4-dotcom&show_icons=true&theme=tokyonight" alt="GitHub profile statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cervantessaralucia4-dotcom&layout=compact&theme=tokyonight" alt="Most used programming languages on GitHub" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=cervantessaralucia4-dotcom&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B9AC1" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=cervantessaralucia4-dotcom&theme=tokyonight" alt="GitHub contribution streak" />
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cervantessaralucia4-dotcom&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cervantessaralucia4-dotcom&theme=tokyo-night" alt="GitHub contribution activity graph" width="100%" />
+
+<br />
+
+<a href="https://github.com/cervantessaralucia4-dotcom?tab=repositories">Browse my repositories and activity directly on GitHub →</a>
 
 </div>
 
