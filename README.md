@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1A1025,30:5B21B6,65:9333EA,100:EC4899&text=SARA%20CERVANTES&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%7C%20DATA&descAlignY=58&descSize=18" alt="Sara Cervantes — Software Developer, AI and Data" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:130f1c,35:3B0764,70:7E22CE,100:DB2777&text=SARA%20CERVANTES&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%7C%20DATA&descAlignY=58&descSize=18" alt="Sara Cervantes Banner" width="100%" />
 
 <a href="https://portafolio-vert-seven-54.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-7E22CE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://github.com/cervantessaralucia4-dotcom"><img src="https://img.shields.io/badge/GITHUB-9333EA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -8,7 +8,7 @@
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1100&color=F0ABFC&center=true&vCenter=true&width=760&lines=Building+digital+products+with+purpose;Turning+data+into+useful+insights;Learning%2C+building%2C+growing" alt="Building digital products with purpose; turning data into useful insights; learning, building, growing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1100&color=F0ABFC&center=true&vCenter=true&width=760&lines=Building+digital+products+with+purpose;Turning+data+into+useful+insights;Learning%2C+building%2C+growing" alt="Typing SVG" />
 
 <br /><br />
 
@@ -88,28 +88,24 @@ I enjoy transforming ideas into useful digital products and exploring how **soft
 
 ---
 
-## <img src="https://img.shields.io/badge/04-DB2777?style=flat-square" alt="04" /> GitHub insights
+## `// github stats`
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=cervantessaralucia4-dotcom&show_icons=true&hide_border=true&include_all_commits=true&bg_color=1A1025&title_color=E9A3FF&icon_color=F472B6&text_color=F3E8FF&border_color=9333EA" alt="GitHub profile statistics" />
-    </td>
-    <td>
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cervantessaralucia4-dotcom&layout=compact&hide_border=true&bg_color=1A1025&title_color=E9A3FF&text_color=F3E8FF&border_color=9333EA" alt="Most used languages" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=cervantessaralucia4-dotcom&hide_border=true&background=1A1025&ring=9333EA&fire=F472B6&currStreakLabel=E9A3FF&sideLabels=F3E8FF&dates=C4B5FD" alt="GitHub contribution streak" />
+<!-- Gráfica de Donut de Lenguajes estilo dashboard -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cervantessaralucia4-dotcom&layout=donut&bg_color=161021&border_color=2E1C44&title_color=F472B6&text_color=F5D0FE&hide_border=false" alt="Top Languages Donut" width="49%" />
+<!-- Tarjeta de Racha con Anillo Circular idéntica al diseño -->
+<img src="https://streak-stats.demolab.com?user=cervantessaralucia4-dotcom&theme=dark&background=161021&border=2E1C44&ring=C026D3&fire=F472B6&currStreakNum=FFFFFF&currStreakLabel=F472B6&sideNums=FFFFFF&sideLabels=E9A3FF&dates=A855F7&hide_border=false" alt="Streak Stats Circular" width="49%" />
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cervantessaralucia4-dotcom&bg_color=1A1025&color=E9A3FF&line=9333EA&point=F472B6&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
+<!-- Estadísticas generales oscuras con borde púrpura sutil -->
+<img src="https://github-readme-stats.vercel.app/api?username=cervantessaralucia4-dotcom&show_icons=true&include_all_commits=true&count_private=true&bg_color=161021&border_color=2E1C44&title_color=F472B6&icon_color=C026D3&text_color=F5D0FE&hide_border=false" alt="Sara's GitHub Stats" width="80%" />
+
+<br /><br />
+
+<!-- Matriz / Snake de contribuciones en tonos púrpura y magenta -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cervantessaralucia4-dotcom&bg_color=161021&color=F472B6&line=A855F7&point=EC4899&area=true&hide_border=false&border_color=2E1C44" alt="Contribution Activity Graph" width="98%" />
 
 </div>
 
@@ -128,6 +124,6 @@ Open to collaboration, internships, and projects with real-world impact.
 
 <sub>Progress is built one thoughtful step at a time.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:5B21B6,45:9333EA,75:DB2777,100:F0ABFC" alt="Purple and pink footer wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:3B0764,45:7E22CE,75:DB2777,100:F0ABFC" alt="Purple and pink footer wave" width="100%" />
 
 </div>
