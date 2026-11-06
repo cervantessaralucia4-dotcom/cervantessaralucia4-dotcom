@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:130f1c,35:3B0764,70:7E22CE,100:DB2777&text=SARA%20CERVANTES&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%26%20DATA&descSize=18&descColor=F3E8FF" alt="Sara Cervantes banner" width="100%" />
+<img src="https://raw.githubusercontent.com/cervantessaralucia4-dotcom/cervantessaralucia4-dotcom/main/assets/profile-banner.svg" alt="Sara Cervantes — Software Developer | AI & Data" width="100%" />
+
+<br />
 
 <a href="https://portafolio-vert-seven-54.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-7E22CE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://github.com/cervantessaralucia4-dotcom"><img src="https://img.shields.io/badge/GITHUB-9333EA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -8,9 +10,9 @@
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1100&color=F0ABFC&center=true&vCenter=true&width=760&lines=Building+digital+products+with+purpose;Turning+data+into+useful+solutions;Exploring+AI%2C+software+and+impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1300&color=C4B5FD&center=true&vCenter=true&width=760&lines=Building+digital+products+with+purpose;Turning+data+into+useful+solutions;Exploring+AI%2C+software+and+impact" alt="Building digital products with purpose" />
 
-<br /><br />
+<br />
 
 <img src="https://komarev.com/ghpvc/?username=cervantessaralucia4-dotcom&style=for-the-badge&color=9333EA&label=PROFILE+VISITS" alt="Profile visits" />
 
@@ -18,7 +20,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/01-7E22CE?style=flat-square" alt="01" /> About me
+## ✦ About me
 
 I'm **Sara Cervantes**, a software development student at **ADSO — SENA Centro Colombo Alemán** and an **Artificial Intelligence and Data Science Engineering** student.
 
@@ -32,50 +34,62 @@ I enjoy transforming ideas into useful digital products and exploring how **soft
 
 ---
 
-## <img src="https://img.shields.io/badge/02-DB2777?style=flat-square" alt="02" /> Selected projects
+## ✧ Selected projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://img.shields.io/badge/HELPDESK-DB2777?style=flat-square" alt="Helpdesk" /> Soportix</h3>
+      <h3>Soportix</h3>
       <p>Helpdesk platform with role-based access, ticket tracking, comments, file attachments, and reporting dashboard.</p>
-      <p><img src="https://img.shields.io/badge/TypeScript-7E22CE?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Angular-9333EA?style=flat-square&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/PostgreSQL-DB2777?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-7E22CE?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Angular-9333EA?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+      </p>
       <a href="https://github.com/bleidys16/Soportix">Explore repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://img.shields.io/badge/WEB-7E22CE?style=flat-square" alt="Web" /> Inmobiliaria</h3>
+      <h3>Inmobiliaria</h3>
       <p>Real-estate website presenting property listings in a clean, accessible digital experience.</p>
-      <p><img src="https://img.shields.io/badge/HTML-9333EA?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-DB2777?style=flat-square&logo=css3&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/JavaScript-7E22CE?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /></p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-9333EA?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+        <img src="https://img.shields.io/badge/CSS-DB2777?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+      </p>
       <a href="https://github.com/cervantessaralucia4-dotcom/inmobiliaria">Explore repository →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://img.shields.io/badge/HEALTH%20DATA-DB2777?style=flat-square" alt="Health data" /> pipeline-reto</h3>
+      <h3>pipeline-reto</h3>
       <p>Intelligent clinical analytics platform focused on data processing and healthcare insights.</p>
-      <p><img src="https://img.shields.io/badge/Python-7E22CE?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Analytics-9333EA?style=flat-square&logo=githubactions&logoColor=white" alt="Analytics" /></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-7E22CE?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Analytics-9333EA?style=flat-square&logo=githubactions&logoColor=white" alt="Analytics" />
+      </p>
       <a href="https://github.com/cervantessaralucia4-dotcom/pipeline-reto">Explore repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://img.shields.io/badge/INDUSTRY-9333EA?style=flat-square" alt="Industry" /> SuperBrixIA / BRIX360</h3>
+      <h3>SuperBrixIA / BRIX360</h3>
       <p>Android solution for industrial event reporting, AI-assisted classification, and operational monitoring.</p>
-      <p><img src="https://img.shields.io/badge/Kotlin-7E22CE?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /> <img src="https://img.shields.io/badge/Jetpack%20Compose-DB2777?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" /></p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7E22CE?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Jetpack%20Compose-DB2777?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+      </p>
       <a href="https://github.com/cervantessaralucia4-dotcom/SuperBrixIA">Explore repository →</a>
     </td>
   </tr>
 </table>
 
 <div align="center">
-<a href="https://github.com/cervantessaralucia4-dotcom?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_ALL_PROJECTS-7E22CE?style=for-the-badge&logo=github&logoColor=white" alt="Browse all projects" /></a>
+  <a href="https://github.com/cervantessaralucia4-dotcom?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_ALL_PROJECTS-7E22CE?style=for-the-badge&logo=github&logoColor=white" alt="Browse all projects" /></a>
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/03-C026D3?style=flat-square" alt="03" /> Tools I use
+## ✧ Tools & technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,js,ts,php,html,css,react,nextjs,nodejs,django,fastapi,mysql,postgres,firebase,git,github,vscode,androidstudio&theme=dark" alt="Programming tools" />
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,js,ts,php,html,css,react,nextjs,nodejs,django,fastapi,mysql,postgres,firebase,git,github,vscode,androidstudio&theme=dark" alt="Programming tools and technologies" />
 
 <br /><br />
 
@@ -91,12 +105,14 @@ I enjoy transforming ideas into useful digital products and exploring how **soft
 ## `// github stats`
 
 <div align="center">
-  <img src="./assets/github-stats.svg" alt="GitHub stats de Sara Cervantes" width="900" />
+
+<img src="https://raw.githubusercontent.com/cervantessaralucia4-dotcom/cervantessaralucia4-dotcom/main/assets/github-stats.svg" alt="GitHub contribution, streak, and language statistics dashboard for Sara Cervantes" width="100%" />
+
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/05-9333EA?style=flat-square" alt="05" /> Let's connect
+## ✧ Let's connect
 
 <div align="center">
 
@@ -108,7 +124,5 @@ Open to collaboration, internships, and projects with real-world impact.
 <br /><br />
 
 <sub>Progress is built one thoughtful step at a time.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:3B0764,45:7E22CE,75:DB2777,100:F0ABFC" alt="Purple and pink footer wave" width="100%" />
 
 </div>
