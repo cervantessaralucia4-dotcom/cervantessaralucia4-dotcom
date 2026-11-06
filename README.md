@@ -8,7 +8,7 @@
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1100&color=F0ABFC&center=true&vCenter=true&width=760&lines=Building+digital+products+with+purpose;Turning+data+into+useful+insights;Learning+%E2%80%A2+Building+%E2%80%A2+Growing" alt="Building digital products with purpose; Turning data into useful insights; Learning, building, growing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1100&color=F0ABFC&center=true&vCenter=true&width=760&lines=Building+digital+products+with+purpose;Turning+data+into+useful+insights;Learning%2C+building%2C+growing" alt="Building digital products with purpose; turning data into useful insights; learning, building, growing" />
 
 <br /><br />
 
@@ -92,10 +92,18 @@ I enjoy transforming ideas into useful digital products and exploring how **soft
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cervantessaralucia4-dotcom&show_icons=true&hide_border=true&include_all_commits=true&bg_color=1A1025&title_color=E9A3FF&icon_color=F472B6&text_color=F3E8FF&border_color=9333EA" alt="GitHub profile statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cervantessaralucia4-dotcom&layout=compact&hide_border=true&bg_color=1A1025&title_color=E9A3FF&text_color=F3E8FF&border_color=9333EA" alt="Most used languages" />
+<table>
+  <tr>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=cervantessaralucia4-dotcom&show_icons=true&hide_border=true&include_all_commits=true&bg_color=1A1025&title_color=E9A3FF&icon_color=F472B6&text_color=F3E8FF&border_color=9333EA" alt="GitHub profile statistics" />
+    </td>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cervantessaralucia4-dotcom&layout=compact&hide_border=true&bg_color=1A1025&title_color=E9A3FF&text_color=F3E8FF&border_color=9333EA" alt="Most used languages" />
+    </td>
+  </tr>
+</table>
 
-<br /><br />
+<br />
 
 <img src="https://streak-stats.demolab.com?user=cervantessaralucia4-dotcom&hide_border=true&background=1A1025&ring=9333EA&fire=F472B6&currStreakLabel=E9A3FF&sideLabels=F3E8FF&dates=C4B5FD" alt="GitHub contribution streak" />
 
